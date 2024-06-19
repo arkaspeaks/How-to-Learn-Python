@@ -6,7 +6,3 @@
 list1 = (1,2,3,4)
 print (sum (list1))
 #this prints out the sum of the digits of list1 
-
-
-
-
