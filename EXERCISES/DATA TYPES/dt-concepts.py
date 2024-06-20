@@ -1,5 +1,4 @@
-'''W3 schools Python Exercises'''
-'''TOPIC: PYTHON DATATYPES'''
+#DATA TYPES AND THE CONCEPTS :
 
 '''
 
